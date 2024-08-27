@@ -1,0 +1,29 @@
+*{
+  margin: 0px;
+  padding:0px;
+
+}
+.chessboard{
+  width:850px;
+  height:500px;
+  margin-left: 250px;
+  margin-top: 30px;  
+}
+.black{  
+  background: rgb(0, 183, 255); 
+} 
+.white{ 
+  background: rgb(255, 255, 255); 
+}
+table tr td{
+  height:80px;
+  width: 80px;
+  padding:10px;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+img{
+  margin-left: 10px;
+  height:60px;
+  width:60px;
+}
