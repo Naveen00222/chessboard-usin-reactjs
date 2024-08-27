@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Naveen00222/chessboard-usin-reactjs.git/static/css/main.845185aa.css",
-    "main.js": "/Naveen00222/chessboard-usin-reactjs.git/static/js/main.2045bead.js",
-    "static/js/453.8411124a.chunk.js": "/Naveen00222/chessboard-usin-reactjs.git/static/js/453.8411124a.chunk.js",
-    "static/media/bg.jpg": "/Naveen00222/chessboard-usin-reactjs.git/static/media/bg.2e2fe6ec7d2c494776ac.jpg",
-    "static/media/whiteknight.png": "/Naveen00222/chessboard-usin-reactjs.git/static/media/whiteknight.fcb6a9375f7007574cbd.png",
-    "static/media/whitepawn.png": "/Naveen00222/chessboard-usin-reactjs.git/static/media/whitepawn.743aadd5c11cbb4f8b0a.png",
-    "static/media/whitequeen.png": "/Naveen00222/chessboard-usin-reactjs.git/static/media/whitequeen.6972b274f1c55711c24a.png",
-    "static/media/blackknight.png": "/Naveen00222/chessboard-usin-reactjs.git/static/media/blackknight.6cfe292a6ea8776e1d08.png",
-    "static/media/whitebishop.png": "/Naveen00222/chessboard-usin-reactjs.git/static/media/whitebishop.545ff4fc67b13189fe66.png",
-    "index.html": "/Naveen00222/chessboard-usin-reactjs.git/index.html",
-    "main.845185aa.css.map": "/Naveen00222/chessboard-usin-reactjs.git/static/css/main.845185aa.css.map",
-    "main.2045bead.js.map": "/Naveen00222/chessboard-usin-reactjs.git/static/js/main.2045bead.js.map",
-    "453.8411124a.chunk.js.map": "/Naveen00222/chessboard-usin-reactjs.git/static/js/453.8411124a.chunk.js.map"
+    "main.css": "/chessboard-usin-reactjs/static/css/main.f532a9a9.css",
+    "main.js": "/chessboard-usin-reactjs/static/js/main.fe1c3c4a.js",
+    "static/js/453.8411124a.chunk.js": "/chessboard-usin-reactjs/static/js/453.8411124a.chunk.js",
+    "static/media/bg.jpg": "/chessboard-usin-reactjs/static/media/bg.2e2fe6ec7d2c494776ac.jpg",
+    "static/media/whiteknight.png": "/chessboard-usin-reactjs/static/media/whiteknight.fcb6a9375f7007574cbd.png",
+    "static/media/whitepawn.png": "/chessboard-usin-reactjs/static/media/whitepawn.743aadd5c11cbb4f8b0a.png",
+    "static/media/whitequeen.png": "/chessboard-usin-reactjs/static/media/whitequeen.6972b274f1c55711c24a.png",
+    "static/media/blackknight.png": "/chessboard-usin-reactjs/static/media/blackknight.6cfe292a6ea8776e1d08.png",
+    "static/media/whitebishop.png": "/chessboard-usin-reactjs/static/media/whitebishop.545ff4fc67b13189fe66.png",
+    "index.html": "/chessboard-usin-reactjs/index.html",
+    "main.f532a9a9.css.map": "/chessboard-usin-reactjs/static/css/main.f532a9a9.css.map",
+    "main.fe1c3c4a.js.map": "/chessboard-usin-reactjs/static/js/main.fe1c3c4a.js.map",
+    "453.8411124a.chunk.js.map": "/chessboard-usin-reactjs/static/js/453.8411124a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.845185aa.css",
-    "static/js/main.2045bead.js"
+    "static/css/main.f532a9a9.css",
+    "static/js/main.fe1c3c4a.js"
   ]
 }
